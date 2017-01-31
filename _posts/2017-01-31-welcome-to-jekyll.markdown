@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Learn Farm!"
 date:   2017-01-31 21:02:23 +0000
 categories: jekyll update
 ---
