@@ -68,5 +68,6 @@ owner:
   500px: #username
   codepen: #username
 
+theme: leonids
 gems:
   - leonids
