@@ -6,6 +6,6 @@ categories: frontend
 ---
 This is the place to put in the frontend resources and our reading thoughts and discussions.
 
-[Facebook Yoga][facebook-yoga-github]
+Check out the [Facebook Yoga][facebook-yoga-github]
 
 [facebook-yoga-github]: https://facebook.github.io/yoga/
